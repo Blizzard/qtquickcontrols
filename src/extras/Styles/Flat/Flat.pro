@@ -1,5 +1,6 @@
 TARGET = qtquickextrasflatplugin
 TARGETPATH = QtQuick/Controls/Styles/Flat
+IMPORT_VERSION = 1.0
 
 QT += qml quick
 
